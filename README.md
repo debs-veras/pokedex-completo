@@ -32,22 +32,16 @@ Basta abrir o arquivo index.html no navegador ou usar uma extensão como Live Se
 Explore a Pokédex
 Navegue entre os Pokémons, veja os detalhes de cada um, iconografia de tipos e outras informações interativas construídas com JavaScript.
 
-##💡 O que Aprender com esse Projeto
+## 💡 O que Aprender com esse Projeto
 
 Este projeto é ideal para praticar:
-🔹 Consumo de APIs RESTful em JavaScript
-🔹 Manipulação de dados e DOM
-🔹 Uso de eventos para interatividade (ex.: navegação entre Pokémons)
-🔹 Layout e design responsivo
-🔹 Organização de arquivos front‑end
+- Consumo de APIs RESTful em JavaScript
+- Manipulação de dados e DOM
+- Uso de eventos para interatividade (ex.: navegação entre Pokémons)
+- Layout e design responsivo
+- Organização de arquivos front‑end
 
-📌 Créditos
+## 📌 Créditos
 Este projeto foi feito com base no tutorial do Manual do Dev no YouTube, um excelente recurso para aprender desenvolvimento web básico e avançado.
-
 🔗 Canal Manual do Dev: https://www.youtube.com/c/ManualdoDev
 (Vídeos de projetos práticos ensinando HTML, CSS e JavaScript)
-
-📄 Licença
-
-Este projeto está disponível para uso, estudo e modificação livre.
-Sinta‑se à vontade para adaptar, melhorar e compartilhar!
